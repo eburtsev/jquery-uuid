@@ -5,6 +5,6 @@ jQuery UUID generator plugin based on this [answer on stackoverflow](http://stac
 
 How to use
 ----------
-To generate UUID simple call $.uuid()
+To generate UUID simple call ```$.uuid()```
 
 That is it!
